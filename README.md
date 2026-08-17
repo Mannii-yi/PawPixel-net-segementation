@@ -36,9 +36,9 @@ Both models converge to strong, comparable performance on this dataset. The base
 
 Each panel shows: input image → ground truth mask → baseline prediction → attention-enhanced prediction → TTA-based uncertainty heatmap.
 
-![Comparison 1](results/comparison_0.png)
-![Comparison 2](results/comparison_1.png)
-![Comparison 3](results/comparison_2.png)
+![Comparison 1]("C:\Users\MANSHI\Downloads\results\comparison_1.png")
+![Comparison 2]("C:\Users\MANSHI\Downloads\results\comparison_4.png")
+
 
 > Full result set (10 samples) available in the `results/` folder.
 
